@@ -20,7 +20,7 @@ setup(
 	'PyYAML==5.4.1',
 	'simplejson==3.16.0',
 	'toml==0.10.2',
-	'virtualenv==20.0.17',
+	'virtualenv==20.26.6',
     ]
  )
  
